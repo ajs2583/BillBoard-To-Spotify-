@@ -45,7 +45,7 @@ This project scrapes the Billboard Hot 100 chart for a given date and creates a 
 
 Run the script:
 ```sh
-python script.py
+python main.py
 ```
 
 Follow the prompts to enter a date in `YYYY-MM-DD` format. The script will:
